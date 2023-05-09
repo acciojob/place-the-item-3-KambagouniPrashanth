@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.flexbox{
+	display:flex;
+	flex-direction:row;
+	
+}
