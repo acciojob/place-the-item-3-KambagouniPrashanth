@@ -1,7 +1,9 @@
 
 /* Your CSS Code here. */
-.flexbox{
+holder{
 	display:flex;
-	flex-direction:row;
+	flex:wrap;
+	justify-content:space-evenly;
+	
 	
 }
